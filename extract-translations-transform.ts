@@ -209,7 +209,7 @@ const sanitizeText = (text: string) => {
 const TEMPLATE_LITERAL_BLACKLIST = ["className", "href", "src", "key"];
 
 /**
- * Translates template literals like `Hello ${name}`
+ * Translates template literals like `Hello ${name}` used as children of JSX elements
  * @param j 
  * @param root 
  * @param translations 
