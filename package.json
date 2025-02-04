@@ -1,11 +1,11 @@
 {
   "name": "jscodeshift-react-i18next",
   "devDependencies": {
-    "@types/jscodeshift": "^0.11.5",
+    "@types/jscodeshift": "^0.12.0",
     "@types/lodash": "^4.14.191",
     "@types/node": "^18.11.10",
     "ast-types": "^0.14.2",
-    "jscodeshift": "^0.14.0",
+    "jscodeshift": "^17.1.2",
     "json-stable-stringify": "^1.0.2",
     "lodash": "^4.17.21",
     "slugify": "^1.6.5"
